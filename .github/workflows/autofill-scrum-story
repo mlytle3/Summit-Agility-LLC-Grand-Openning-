@@ -1,0 +1,37 @@
+name: Autofill Scrum Story Issue
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  autofill:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add labels and assignee
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const issue_number = context.issue.number;
+            await github.rest.issues.addAssignees({
+              ...context.repo,
+              issue_number,
+              assignees: ['mlytle3']
+            });
+            await github.rest.issues.addLabels({
+              ...context.repo,
+              issue_number,
+              labels: ['enhancement']
+            });
+
+      - name: Add issue to Summit-Agility-LLC Project
+        uses: actions/add-to-project@v0.4.0
+        with:
+          project-url: https://github.com/orgs/mlytle3/projects/1
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Add issue to Summit-Agility-Website Project
+        uses: actions/add-to-project@v0.4.0
+        with:
+          project-url: https://github.com/orgs/mlytle3/projects/2
+          github-token: ${{ secrets.GITHUB_TOKEN }}
