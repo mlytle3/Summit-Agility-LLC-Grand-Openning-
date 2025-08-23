@@ -40,13 +40,13 @@ File Organization Support
 
 Why Choose Us
 
-Summit Agility isn’t just another service provider—it’s a partner built for people who are tired of wasting time and energy on things that don’t work. We don’t sell buzzwords or play consultant. We step in when duct tape fails and nobody else knows what to do.
+Summit Agility isn’t just another service provider—it’s a partner built for people who are tired of wasting time and energy on things that don’t work. We don’t sell buzzwords or play consultants. We step in when duct tape fails, and nobody else knows what to do.
 
 We’ve lived the chaos and confusion of broken systems, and we know how to fix them—quietly, clearly, and without drama. Our support is practical, grounded, and receipt-driven.
 
-If you want someone who shows up, listens well, and gets things done without ego or noise, Summit Agility is the right fit.
+If you're looking for someone who consistently shows up, listens attentively, and gets results without ego or distractions, Summit Agility is the right fit.
 
-Coming Soon
+Coming Soon:
 
 Resume Shredder
 
@@ -74,10 +74,10 @@ Rates start at $50/hour.
 
 Credentials & Certifications
 
-![Certified ScrumMaster®](badge-7227.png)
+![Certified ScrumMaster®]("C:\Users\mdana\OneDrive\Documents\Desktop\Summit Agility Page\SA_assets\badge-7227.png")
 Certified ScrumMaster®—recognizes proficiency in facilitating agile practices, managing sprint cycles, and driving continuous improvement within teams.
 
-![Agile Coaching Skills](Agile Coaching Badge.png)
+![Agile Coaching Skills]("C:\Users\mdana\OneDrive\Documents\Desktop\Summit Agility Page\SA_assets\Agile Coaching Badge.png")
 Agile Coaching certification—demonstrates advanced capability in leading organizations through agile transformation and cultivating high-performing, collaborative teams.
 
 ![AI for Scrum Masters](badge-50203.png)
@@ -89,7 +89,7 @@ Internal Notes
 
 Words that are banned from use: tactical, logic, layered, asset, proof, modular, architecture, compliance-driven logic
 
-Scrum Master Virtual Admin Remote Agile Support Project Management Team Facilitation Sprint Planning Retrospectives Agile Coaching Digital Collaboration Workflow Optimization+
+Scrum Master, Virtual Admin, Remote Agile Support, Project Management Tea,m Facilitation, Sprint Planning, Retrospectives, Agile Coaching, Digital Collaboration, Workflow Optimization+
 
 🔭 What a Vision Statement Should Do
 
@@ -132,3 +132,4 @@ Website Project: content, layout, contact form, pricing, etc.
 Azure Launch: domain setup, DNS configuration, App Service deployment, verification steps
 
 Social Media Project: platform selection, branding consistency, first post drafts, site-specific planning
+
